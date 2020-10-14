@@ -9,5 +9,5 @@
 Jawab :
 - Menggunakan display filter http.host ==  “testing.mekanis.me”
 - Klik kanan => follow => TCP Stream pada HTTP
-![1a] (image\1a.png)
+![1a] (https://github.com/amlpm/Jarkom_Modul1_PraktikumC10/blob/main/image/1a.png)
 
