@@ -22,13 +22,16 @@ Jawab :
   File => Export Objects => HTTP..
 - Masukkan Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436 jpg pada Text Filter 
 - Klik pada gambar, save as
-![2](https://user-images.githubusercontent.com/57977401/96018892-5f272080-0e7e-11eb-8110-f3972c22195d.png)
+
+![3](https://user-images.githubusercontent.com/57977401/96024850-e7112880-0e86-11eb-9f68-ccd84b4a8630.png)
 
 ### 3.	Cari username dan password ketika login di "ppid.dpr.go.id"!
 Jawab : 
 - Menggunakan display filter http.host == "ppid.dpr.go.id" && http.request.method == "POST" atau http.host == "ppid.dpr.go.id" && http contains login
+
 ![image](https://user-images.githubusercontent.com/57977401/96019076-9990bd80-0e7e-11eb-96e8-be0e98032b9c.png)
 - Klik kanan, follow, TCP Stream. Pada filter, ketik user dan cari tulisan yang bertulisakn "username" dan "password"
+
  ![image](https://user-images.githubusercontent.com/57977401/96019076-9990bd80-0e7e-11eb-96e8-be0e98032b9c.png)
 
 ### 4. Temukan paket dari web-web yang menggunakan basic authentication method!
