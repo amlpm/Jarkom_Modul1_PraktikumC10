@@ -1,16 +1,20 @@
 # Jarkom_Modul1_PraktikumC10
 
-### Kelompok C_10
-### Asisten Dosen Bella Septina 
-### Adrian Danindra 05111840000068
-### Amelia Puji     05111840000147
+## Kelompok C_10
+## Asisten Dosen Bella Septina 
+## Adrian Danindra 05111840000068
+## Amelia Puji     05111840000147
+
 
 ### 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 Jawab :
 - Menggunakan display filter http.host ==  “testing.mekanis.me”
-![1a](https://user-images.githubusercontent.com/57977401/96018508-f2138b00-0e7d-11eb-8752-79cbf9a28578.png)
+
+![96018508-f2138b00-0e7d-11eb-8752-79cbf9a28578](https://user-images.githubusercontent.com/57977401/96024558-7833cf80-0e86-11eb-81ed-81e7c4dd0f87.png)
+
 - Klik kanan => follow => TCP Stream pada HTTP
-![1b](https://user-images.githubusercontent.com/57977401/96018737-369f2680-0e7e-11eb-9a59-c786456542df.png)
+
+![2](https://user-images.githubusercontent.com/57977401/96024712-add8b880-0e86-11eb-9620-e7b7100db918.png)
 
 ### 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 Jawab :
