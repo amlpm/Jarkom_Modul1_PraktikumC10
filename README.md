@@ -1,4 +1,4 @@
-# Jarkom_Modul1_PraktikumC10
+# Jarkom_Modul1_Praktikum_C10
 
 ## Kelompok C_10
 ## Asisten Dosen Bella Septina 
