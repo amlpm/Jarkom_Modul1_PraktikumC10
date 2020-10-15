@@ -167,7 +167,7 @@ Mengetikkan src net (IP masing - masing)
 
 - IP Adrian 
 
-![image](https://user-images.githubusercontent.com/57977401/96023688-630a7100-0e85-11eb-9830-46c3ee4b8f83.png)
+![image](https://user-images.githubusercontent.com/60964359/96082804-199e3e00-0ee6-11eb-8e13-5f7ece856a04.png)
 
 * IP bisa didapat dari Command Prompt dengan mengetikkan ipconfig. Scroll kebawah sedikit hingga menemukan IPv4 Address
 
